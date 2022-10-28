@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn - @latiffetahaj](https://www.linkedin.com/in/latiffetahaj/)
 - ⚡ Fun fact: ...
 
+[![Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latiffetahaj)](https://github.com/latiffetahaj/github-readme-stats)
