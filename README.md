@@ -11,4 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn - @latiffetahaj](https://www.linkedin.com/in/latiffetahaj/)
 - ⚡ Fun fact: ...
 
-<img src ="https://github-readme-stats.vercel.app/api?username=latiffetahaj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+![Latif's GitHub stats](https://github-readme-stats.vercel.app/api?username=latiffetahaj&card_width=100px&show_icons=true&hide=stars,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latiffetahaj&layout=compact&card_width=100px&show_icons=true)](https://github.com/latiffetahaj/github-readme-stats)
+
+[![Latif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=latiffetahaj)](https://github.com/latiffetahaj/github-readme-stats)
